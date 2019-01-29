@@ -1,0 +1,5 @@
+Testing process
+Come up with requirment
+sequence the process
+manually test it
+create a procedure
